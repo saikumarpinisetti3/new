@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "im going to complete git today end of the day"
